@@ -1,4 +1,4 @@
-# ryn
+# ryn [on-hold]
 simai beatmap viewer, implemented in v.
 
 # features
